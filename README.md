@@ -1,7 +1,7 @@
-<p align="center"> <h1>👋 Hola, soy <i>María</i></h1> </p>
+<h1 align="center"> 👋 Hola, soy <i>María</i> </h1>
 
 
-<p align="center"> 💻 Desarrolladora Full Stack <b>·</b> 🎨 Artista <b>·</b> 🧩 Resolutiva </p>
+<p align="center"> 💻 Desarrolladora Full Stack · 🎨 Artista · 🧩 Resolutiva </p>
 
 ## 🧑‍💻 Sobre mí
 
