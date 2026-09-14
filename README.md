@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy _María_
 
-<!--
-**Maryuuk/Maryuuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Desarrolladora Full Stack · 🎨 Diseñadora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+
+- 🎓 Graduada en Desarrollo de Aplicaciones Web
+- 💼 Actualmente realizando un Bootcamp de Data Analyst
+- 🌱 Aprendiendo sobre IA y Ciberseguridad
+- 🚀 Interesada en el área de Ciberseguridad
+- 🎯 Trabajando para seguir mejorando mis habilidades
+- ⚡ Soy una persona autodidacta y con una enorme curiosidad de aprendizaje
+
+<p align="center"> <b>⭐ ¡Gracias por pasarte por aquí! ⭐</b> </p>
