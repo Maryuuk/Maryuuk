@@ -22,6 +22,6 @@
 **Bases de datos**<br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de datos" /><br>
 **Herramientas y DevOps**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,docker,postman" alt="Herramientas" />
 
 <p align="center"> <b>⭐ ¡Gracias por pasarte por aquí! ⭐</b> </p>
